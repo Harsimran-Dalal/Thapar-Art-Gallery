@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.tweet-us-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.tweet-us-container h2 {
+    color: #333;
+}
+
+.tweet-us-container p {
+    color: #666;
+}
+
+.tweet-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1da1f2;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.tweet-button:hover {
+    background-color: #0d8ecf;
+}
