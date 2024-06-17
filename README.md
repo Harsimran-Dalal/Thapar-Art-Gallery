@@ -1,3 +1,4 @@
+# hello
 ART GALLERY FOR THAPAR STUDENTS
 
 The idea we propose is related to OPEN INNOVATION. 
